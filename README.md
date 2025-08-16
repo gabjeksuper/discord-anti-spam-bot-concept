@@ -48,4 +48,4 @@ Edit the channel and disable the ability to share files in the channel (new spam
 
 ## Credits
 Discord: gabjeksuper
-Want to rent a custom bot, tailored to your server and needs? 100% functional? Send me a private message on [Discord](https://discord.com/channels/@me/481444919810981888).
+Want to rent a custom bot, tailored to your server and needs? 100% functional? Send me a private message on Discord.
