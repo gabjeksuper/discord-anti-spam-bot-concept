@@ -24,7 +24,7 @@ It deletes the detected message, timeouts the user, assigns a role (optionally p
 ```bash
 cd C:\path\discord-anti-spam-concept
 npm install
-npm start index.js
+npm start
 ```
 
 ## Config
