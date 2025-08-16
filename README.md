@@ -1,4 +1,4 @@
-# discord-anti-spam-concept
+# Discord Anti Spam BOT - Concept
 
 Single-file concept anti-spam bot for Discord built with **discord.js v14**. 
 
